@@ -1,0 +1,53 @@
+C:\Users\SARAN\Source\Repos\crude_char\Python.Deployment\bin\Debug\netstandard2.0\Python.Deployment.deps.json
+C:\Users\SARAN\Source\Repos\crude_char\Python.Deployment\bin\Debug\netstandard2.0\Python.Deployment.dll
+C:\Users\SARAN\Source\Repos\crude_char\Python.Deployment\bin\Debug\netstandard2.0\Python.Deployment.pdb
+C:\Users\SARAN\Source\Repos\crude_char\Python.Deployment\obj\Debug\netstandard2.0\Python.Deployment.csproj.AssemblyReference.cache
+C:\Users\SARAN\Source\Repos\crude_char\Python.Deployment\obj\Debug\netstandard2.0\Python.Deployment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SARAN\Source\Repos\crude_char\Python.Deployment\obj\Debug\netstandard2.0\Python.Deployment.AssemblyInfoInputs.cache
+C:\Users\SARAN\Source\Repos\crude_char\Python.Deployment\obj\Debug\netstandard2.0\Python.Deployment.AssemblyInfo.cs
+C:\Users\SARAN\Source\Repos\crude_char\Python.Deployment\obj\Debug\netstandard2.0\Python.Deployment.csproj.CoreCompileInputs.cache
+C:\Users\SARAN\Source\Repos\crude_char\Python.Deployment\obj\Debug\netstandard2.0\Python.Deployment.dll
+C:\Users\SARAN\Source\Repos\crude_char\Python.Deployment\obj\Debug\netstandard2.0\Python.Deployment.pdb
+C:\Users\SARAN\source\repos\crude_char_2cuve\Python.Deployment\bin\Debug\netstandard2.0\Python.Deployment.deps.json
+C:\Users\SARAN\source\repos\crude_char_2cuve\Python.Deployment\bin\Debug\netstandard2.0\Python.Deployment.dll
+C:\Users\SARAN\source\repos\crude_char_2cuve\Python.Deployment\bin\Debug\netstandard2.0\Python.Deployment.pdb
+C:\Users\SARAN\source\repos\crude_char_2cuve\Python.Deployment\obj\Debug\netstandard2.0\Python.Deployment.csproj.AssemblyReference.cache
+C:\Users\SARAN\source\repos\crude_char_2cuve\Python.Deployment\obj\Debug\netstandard2.0\Python.Deployment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SARAN\source\repos\crude_char_2cuve\Python.Deployment\obj\Debug\netstandard2.0\Python.Deployment.AssemblyInfoInputs.cache
+C:\Users\SARAN\source\repos\crude_char_2cuve\Python.Deployment\obj\Debug\netstandard2.0\Python.Deployment.AssemblyInfo.cs
+C:\Users\SARAN\source\repos\crude_char_2cuve\Python.Deployment\obj\Debug\netstandard2.0\Python.Deployment.csproj.CoreCompileInputs.cache
+C:\Users\SARAN\source\repos\crude_char_2cuve\Python.Deployment\obj\Debug\netstandard2.0\Python.Deployment.dll
+C:\Users\SARAN\source\repos\crude_char_2cuve\Python.Deployment\obj\Debug\netstandard2.0\Python.Deployment.pdb
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\crude_char_2cuve\Python.Deployment\bin\Debug\netstandard2.0\Python.Deployment.deps.json
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\crude_char_2cuve\Python.Deployment\bin\Debug\netstandard2.0\Python.Deployment.dll
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\crude_char_2cuve\Python.Deployment\bin\Debug\netstandard2.0\Python.Deployment.pdb
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\crude_char_2cuve\Python.Deployment\obj\Debug\netstandard2.0\Python.Deployment.csproj.AssemblyReference.cache
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\crude_char_2cuve\Python.Deployment\obj\Debug\netstandard2.0\Python.Deployment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\crude_char_2cuve\Python.Deployment\obj\Debug\netstandard2.0\Python.Deployment.AssemblyInfoInputs.cache
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\crude_char_2cuve\Python.Deployment\obj\Debug\netstandard2.0\Python.Deployment.AssemblyInfo.cs
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\crude_char_2cuve\Python.Deployment\obj\Debug\netstandard2.0\Python.Deployment.csproj.CoreCompileInputs.cache
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\crude_char_2cuve\Python.Deployment\obj\Debug\netstandard2.0\Python.Deployment.sourcelink.json
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\crude_char_2cuve\Python.Deployment\obj\Debug\netstandard2.0\Python.Deployment.dll
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\crude_char_2cuve\Python.Deployment\obj\Debug\netstandard2.0\Python.Deployment.pdb
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve\Python.Deployment\bin\Debug\netstandard2.0\Python.Deployment.deps.json
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve\Python.Deployment\bin\Debug\netstandard2.0\Python.Deployment.dll
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve\Python.Deployment\bin\Debug\netstandard2.0\Python.Deployment.pdb
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve\Python.Deployment\obj\Debug\netstandard2.0\Python.Deployment.csproj.AssemblyReference.cache
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve\Python.Deployment\obj\Debug\netstandard2.0\Python.Deployment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve\Python.Deployment\obj\Debug\netstandard2.0\Python.Deployment.AssemblyInfoInputs.cache
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve\Python.Deployment\obj\Debug\netstandard2.0\Python.Deployment.AssemblyInfo.cs
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve\Python.Deployment\obj\Debug\netstandard2.0\Python.Deployment.csproj.CoreCompileInputs.cache
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve\Python.Deployment\obj\Debug\netstandard2.0\Python.Deployment.sourcelink.json
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve\Python.Deployment\obj\Debug\netstandard2.0\Python.Deployment.dll
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve\Python.Deployment\obj\Debug\netstandard2.0\Python.Deployment.pdb
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve1\Python.Deployment\bin\Debug\netstandard2.0\Python.Deployment.deps.json
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve1\Python.Deployment\bin\Debug\netstandard2.0\Python.Deployment.dll
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve1\Python.Deployment\bin\Debug\netstandard2.0\Python.Deployment.pdb
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve1\Python.Deployment\obj\Debug\netstandard2.0\Python.Deployment.csproj.AssemblyReference.cache
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve1\Python.Deployment\obj\Debug\netstandard2.0\Python.Deployment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve1\Python.Deployment\obj\Debug\netstandard2.0\Python.Deployment.AssemblyInfoInputs.cache
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve1\Python.Deployment\obj\Debug\netstandard2.0\Python.Deployment.AssemblyInfo.cs
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve1\Python.Deployment\obj\Debug\netstandard2.0\Python.Deployment.csproj.CoreCompileInputs.cache
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve1\Python.Deployment\obj\Debug\netstandard2.0\Python.Deployment.sourcelink.json
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve1\Python.Deployment\obj\Debug\netstandard2.0\Python.Deployment.dll
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve1\Python.Deployment\obj\Debug\netstandard2.0\Python.Deployment.pdb

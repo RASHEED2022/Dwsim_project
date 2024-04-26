@@ -1,0 +1,68 @@
+C:\Users\SARAN\Source\Repos\crude_char\Python.Included\bin\Debug\netstandard2.0\Python.Included.deps.json
+C:\Users\SARAN\Source\Repos\crude_char\Python.Included\bin\Debug\netstandard2.0\Python.Included.dll
+C:\Users\SARAN\Source\Repos\crude_char\Python.Included\bin\Debug\netstandard2.0\Python.Included.pdb
+C:\Users\SARAN\Source\Repos\crude_char\Python.Included\bin\Debug\netstandard2.0\Python.Deployment.dll
+C:\Users\SARAN\Source\Repos\crude_char\Python.Included\bin\Debug\netstandard2.0\Python.Deployment.pdb
+C:\Users\SARAN\Source\Repos\crude_char\Python.Included\obj\Debug\netstandard2.0\Python.Included.csproj.AssemblyReference.cache
+C:\Users\SARAN\Source\Repos\crude_char\Python.Included\obj\Debug\netstandard2.0\Python.Included.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SARAN\Source\Repos\crude_char\Python.Included\obj\Debug\netstandard2.0\Python.Included.AssemblyInfoInputs.cache
+C:\Users\SARAN\Source\Repos\crude_char\Python.Included\obj\Debug\netstandard2.0\Python.Included.AssemblyInfo.cs
+C:\Users\SARAN\Source\Repos\crude_char\Python.Included\obj\Debug\netstandard2.0\Python.Included.csproj.CoreCompileInputs.cache
+C:\Users\SARAN\Source\Repos\crude_char\Python.Included\obj\Debug\netstandard2.0\Python.Included.csproj.CopyComplete
+C:\Users\SARAN\Source\Repos\crude_char\Python.Included\obj\Debug\netstandard2.0\Python.Included.dll
+C:\Users\SARAN\Source\Repos\crude_char\Python.Included\obj\Debug\netstandard2.0\Python.Included.pdb
+C:\Users\SARAN\source\repos\crude_char_2cuve\Python.Included\bin\Debug\netstandard2.0\Python.Included.deps.json
+C:\Users\SARAN\source\repos\crude_char_2cuve\Python.Included\bin\Debug\netstandard2.0\Python.Included.dll
+C:\Users\SARAN\source\repos\crude_char_2cuve\Python.Included\bin\Debug\netstandard2.0\Python.Included.pdb
+C:\Users\SARAN\source\repos\crude_char_2cuve\Python.Included\bin\Debug\netstandard2.0\Python.Deployment.dll
+C:\Users\SARAN\source\repos\crude_char_2cuve\Python.Included\bin\Debug\netstandard2.0\Python.Deployment.pdb
+C:\Users\SARAN\source\repos\crude_char_2cuve\Python.Included\obj\Debug\netstandard2.0\Python.Included.csproj.AssemblyReference.cache
+C:\Users\SARAN\source\repos\crude_char_2cuve\Python.Included\obj\Debug\netstandard2.0\Python.Included.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SARAN\source\repos\crude_char_2cuve\Python.Included\obj\Debug\netstandard2.0\Python.Included.AssemblyInfoInputs.cache
+C:\Users\SARAN\source\repos\crude_char_2cuve\Python.Included\obj\Debug\netstandard2.0\Python.Included.AssemblyInfo.cs
+C:\Users\SARAN\source\repos\crude_char_2cuve\Python.Included\obj\Debug\netstandard2.0\Python.Included.csproj.CoreCompileInputs.cache
+C:\Users\SARAN\source\repos\crude_char_2cuve\Python.Included\obj\Debug\netstandard2.0\Python.Included.csproj.CopyComplete
+C:\Users\SARAN\source\repos\crude_char_2cuve\Python.Included\obj\Debug\netstandard2.0\Python.Included.dll
+C:\Users\SARAN\source\repos\crude_char_2cuve\Python.Included\obj\Debug\netstandard2.0\Python.Included.pdb
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\crude_char_2cuve\Python.Included\obj\Debug\netstandard2.0\Python.Included.dll
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\crude_char_2cuve\Python.Included\obj\Debug\netstandard2.0\Python.Included.pdb
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\crude_char_2cuve\Python.Included\bin\Debug\netstandard2.0\Python.Included.deps.json
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\crude_char_2cuve\Python.Included\bin\Debug\netstandard2.0\Python.Included.dll
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\crude_char_2cuve\Python.Included\bin\Debug\netstandard2.0\Python.Included.pdb
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\crude_char_2cuve\Python.Included\bin\Debug\netstandard2.0\Python.Deployment.dll
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\crude_char_2cuve\Python.Included\bin\Debug\netstandard2.0\Python.Deployment.pdb
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\crude_char_2cuve\Python.Included\obj\Debug\netstandard2.0\Python.Included.csproj.AssemblyReference.cache
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\crude_char_2cuve\Python.Included\obj\Debug\netstandard2.0\Python.Included.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\crude_char_2cuve\Python.Included\obj\Debug\netstandard2.0\Python.Included.AssemblyInfoInputs.cache
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\crude_char_2cuve\Python.Included\obj\Debug\netstandard2.0\Python.Included.AssemblyInfo.cs
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\crude_char_2cuve\Python.Included\obj\Debug\netstandard2.0\Python.Included.csproj.CoreCompileInputs.cache
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\crude_char_2cuve\Python.Included\obj\Debug\netstandard2.0\Python.Included.sourcelink.json
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\crude_char_2cuve\Python.Included\obj\Debug\netstandard2.0\Python.I.59F29DDA.Up2Date
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve\Python.Included\bin\Debug\netstandard2.0\Python.Included.deps.json
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve\Python.Included\bin\Debug\netstandard2.0\Python.Included.dll
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve\Python.Included\bin\Debug\netstandard2.0\Python.Included.pdb
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve\Python.Included\bin\Debug\netstandard2.0\Python.Deployment.dll
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve\Python.Included\bin\Debug\netstandard2.0\Python.Deployment.pdb
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve\Python.Included\obj\Debug\netstandard2.0\Python.Included.csproj.AssemblyReference.cache
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve\Python.Included\obj\Debug\netstandard2.0\Python.Included.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve\Python.Included\obj\Debug\netstandard2.0\Python.Included.AssemblyInfoInputs.cache
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve\Python.Included\obj\Debug\netstandard2.0\Python.Included.AssemblyInfo.cs
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve\Python.Included\obj\Debug\netstandard2.0\Python.Included.csproj.CoreCompileInputs.cache
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve\Python.Included\obj\Debug\netstandard2.0\Python.Included.sourcelink.json
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve\Python.Included\obj\Debug\netstandard2.0\Python.I.59F29DDA.Up2Date
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve\Python.Included\obj\Debug\netstandard2.0\Python.Included.dll
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve\Python.Included\obj\Debug\netstandard2.0\Python.Included.pdb
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve1\Python.Included\bin\Debug\netstandard2.0\Python.Included.deps.json
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve1\Python.Included\bin\Debug\netstandard2.0\Python.Included.dll
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve1\Python.Included\bin\Debug\netstandard2.0\Python.Included.pdb
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve1\Python.Included\bin\Debug\netstandard2.0\Python.Deployment.dll
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve1\Python.Included\bin\Debug\netstandard2.0\Python.Deployment.pdb
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve1\Python.Included\obj\Debug\netstandard2.0\Python.Included.csproj.AssemblyReference.cache
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve1\Python.Included\obj\Debug\netstandard2.0\Python.Included.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve1\Python.Included\obj\Debug\netstandard2.0\Python.Included.AssemblyInfoInputs.cache
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve1\Python.Included\obj\Debug\netstandard2.0\Python.Included.AssemblyInfo.cs
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve1\Python.Included\obj\Debug\netstandard2.0\Python.Included.csproj.CoreCompileInputs.cache
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve1\Python.Included\obj\Debug\netstandard2.0\Python.Included.sourcelink.json
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve1\Python.Included\obj\Debug\netstandard2.0\Python.I.59F29DDA.Up2Date
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve1\Python.Included\obj\Debug\netstandard2.0\Python.Included.dll
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve1\Python.Included\obj\Debug\netstandard2.0\Python.Included.pdb

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Python.Included</id>
+    <version>3.7.3.13</version>
+    <authors>Meinrad Recheis and Python Software Foundation</authors>
+    <licenseUrl>https://docs.python.org/3/license.html</licenseUrl>
+    <projectUrl>https://github.com/henon/Python.Included</projectUrl>
+    <iconUrl>https://github.com/henon/Python.Included/blob/master/art/python_included_nuget.png</iconUrl>
+    <description>Python.Included is an automatic deployment mechanism for .NET packages which depend on the embedded Python distribution. This allows libraries depending on Python and/or Python packages to be deployed via Nuget without having to worry about any local Python installations.</description>
+    <copyright>Copyright 2019-2020 Meinrad Recheis and Python Software Foundation</copyright>
+    <tags>Python, pythonnet, embedded, interop, deployment</tags>
+    <repository type="github" url="https://github.com/henon/Python.Included" commit="ab11e920eabc3af36a73bf2d926ad507f6422d18" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Python.Deployment" version="1.3.0" exclude="Build,Analyzers" />
+        <dependency id="pythonnet" version="3.0.0-preview2022-02-03" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\old\crude_char_2cuve1\Python.Included\bin\Debug\netstandard2.0\Python.Included.dll" target="lib\netstandard2.0\Python.Included.dll" />
+  </files>
+</package>
